@@ -13,4 +13,4 @@ You need to include these header files:
 4. #include <chrono>
 
 // thread is a header file that provides facilities for working with threads
-5. #include <thread> // thread is a header file that provides facilities for working with threads
+5. #include <thread>
