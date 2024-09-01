@@ -1,7 +1,16 @@
 You need to include these header files:
 
-1. #include <iostream>  // iostream is a header file that will do the printing
-2. #include <sstream>  // sstream is a header file that is used for input and output operations on strings
-3. #include <string>  // string is a header file that will store the words in a variable
-4. #include <chrono>  // chrono is a header file that provides utilities for dealing with time
+// iostream is a header file that will do the printing
+1. #include <iostream>
+
+// sstream is a header file that is used for input and output operations on strings
+2. #include <stream>  
+
+// string is a header file that will store the words in a variable
+3. #include <string>
+
+// chrono is a header file that provides utilities for dealing with time
+4. #include <chrono>
+
+// thread is a header file that provides facilities for working with threads
 5. #include <thread> // thread is a header file that provides facilities for working with threads
